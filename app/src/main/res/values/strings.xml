@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssignmentAND103</string>
+    <string name="login">Dont have acount ? <b>Login</b> </string>
+    <string name="signup">Already have an account?<b>Signup</b> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
